@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Shanshan Qin
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,28 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Postdoctoral Fellow in Computational and Theoretical Neuroscience
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Harvard University
+  url: "https://pehlevan.seas.harvard.edu/people/shanshan-qin"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Computationl Neuroscince
+- Quantiative and Systems Biology
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
+  - course: PhD in Condensed Matter Physics
+    institution: Peking University,Bejing, China
+    year: 2019
+  - course: BSc in physics
+    institution: Central China Normal University, Wuhan, China
     year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
