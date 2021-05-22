@@ -16,7 +16,7 @@ subtitle = ""
 
 [[feature]]
   icon = "python"
-  icon_pack = "fas"
+  icon_pack = "fab"
   name = "Python"
   description = "30%"
 
@@ -30,7 +30,13 @@ subtitle = ""
   icon = ""
   icon_pack = "fas"
   name = "MATLAB"
-  description = "100%"  
+  description = "100%"
+
+[[feature]]
+  icon = ""
+  icon_pack = "fab"
+  name = "C/C++"
+  description = "10%"    
   
 [[feature]]
   icon = "overleaf"
