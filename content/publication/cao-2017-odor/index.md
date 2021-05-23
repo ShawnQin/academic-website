@@ -1,0 +1,24 @@
+---
+title: Odor-evoked inhibition of olfactory sensory neurons drives olfactory perception
+  in Drosophila
+date: '2017-01-01'
+draft: true
+publishDate: '2021-05-23T03:00:34.630837Z'
+authors:
+- Li-Hui Cao
+- Dong Yang
+- Wei Wu
+- Xiankun Zeng
+- Bi-Yang Jing
+- Meng-Tong Li
+- Shanshan Qin
+- Chao Tang
+- Yuhai Tu
+- Dong-Gen Luo
+publication_types:
+- '2'
+abstract: ''
+featured: false
+publication: '*Nature communications*'
+---
+
