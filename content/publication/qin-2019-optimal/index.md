@@ -3,7 +3,7 @@ title: Optimal compressed sensing strategies for an array of nonlinear olfactory
   neurons with and without spontaneous activity
 date: '2019-01-01'
 draft: false
-publishDate: '2021-05-23T03:00:34.468663Z'
+publishDate: '2022-01-23T21:18:00.595314Z'
 authors:
 - Shanshan Qin
 - Qianyi Li

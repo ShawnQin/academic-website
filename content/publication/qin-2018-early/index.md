@@ -1,8 +1,8 @@
 ---
 title: 'Early-warning signals of critical transition: Effect of extrinsic noise'
 date: '2018-01-01'
-draft: false 
-publishDate: '2021-05-23T03:00:34.590397Z'
+draft: false
+publishDate: '2022-01-23T21:18:00.797999Z'
 authors:
 - Shanshan Qin
 - Chao Tang

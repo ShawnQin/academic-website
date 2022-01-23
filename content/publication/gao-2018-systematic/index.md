@@ -3,7 +3,7 @@ title: A systematic study of the determinants of protein abundance memory in cel
   lineage
 date: '2018-01-01'
 draft: false
-publishDate: '2021-05-23T03:00:34.388600Z'
+publishDate: '2022-01-23T21:18:00.463483Z'
 authors:
 - Zongmao Gao
 - Haoyuan Sun
