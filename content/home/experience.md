@@ -52,4 +52,13 @@ date_format = "Jan 2006"
   description = """Designed and performed experimental study on the temperature-dependent speed of embryoge-
 nesis in *Drosophila Melanogaster*"""
 
+  [[experience]]
+  title = "Undergraduate research assistant"
+  company = "Central China Normal University"
+  company_url = ""
+  location = "Wuhan, China"
+  date_start = "2009-06-20"
+  date_end = "2010-11-15"
+  description = """Successfully prepared the hematite nanorods array, and studied its electrochemical properties as an anode material and reversible lithium storage"""
+
 +++
