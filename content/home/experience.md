@@ -28,7 +28,7 @@ date_format = "Jan 2006"
   Research interests:
   
   * Neural information processing
-  * Biologically plausible learning algoirthm
+  * Biologically plausible learning algorithm
   * Neural computation in olfactory systems
   * Quantitative biology
   """
@@ -37,10 +37,10 @@ date_format = "Jan 2006"
   title = "Ph.D Student"
   company = "Peking University"
   company_url = ""
-  location = "Bejing, China"
+  location = "Beijing, China"
   date_start = "2012-09-01"
   date_end = "2019-07-01"
-  description = """Explored various projects in the interface between physics and biology. Learned interdisciplinary approached to understand complex biological systems: cell fate transitions, grogrammed cell death, and information processing in neural systems"""
+  description = """Explored various projects in the interface between physics and biology. Learned interdisciplinary approached to understand complex biological systems: cell fate transitions, programmed cell death, and information processing in neural systems"""
   
   [[experience]]
   title = "Visiting student"
@@ -49,8 +49,7 @@ date_format = "Jan 2006"
   location = "Berkeley, CA"
   date_start = "2016-06-20"
   date_end = "2016-09-20"
-  description = """Designed and performed experimental study on the temperature-dependent speed of embryoge-
-nesis in *Drosophila Melanogaster*"""
+  description = """Designed and performed experimental study on the temperature-dependent speed of embryogenesis in *Drosophila Melanogaster*"""
 
   [[experience]]
   title = "Undergraduate research assistant"
