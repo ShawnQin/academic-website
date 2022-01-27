@@ -24,19 +24,19 @@ subtitle = ""
   icon = "python"
   icon_pack = "fab"
   name = "Python"
-  description = "30%"
+  description = "60%"
 
 [[feature]]
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  description = "30%"
+  description = "50%"
 
 [[feature]]
   icon = ""
   icon_pack = "fab"
   name = "C/C++"
-  description = "10%"    
+  description = "30%"    
   
 [[feature]]
   icon = "overleaf"
