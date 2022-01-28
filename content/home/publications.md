@@ -37,7 +37,7 @@ subtitle = ""
   #   2 = Compact
   #   3 = Card
 
-  #   4 = Citation (publication only)
+  # 4 = Citation (publication only)
   view = 2
 
 [design.background]
@@ -62,7 +62,7 @@ subtitle = ""
   # text_color_light = true  
 
 [advanced]
- # Custom CSS. 
+ # Custom CSS.
  css_style = ""
 
  # CSS class.
