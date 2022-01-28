@@ -18,10 +18,10 @@ organizations:
   url: "https://pehlevan.seas.harvard.edu/people/shanshan-qin"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include computational and theoretical neuroscience, and quantiative biology.
 
 interests:
-- Computationl Neuroscince
+- Computational Neuroscience
 - Quantiative and Systems Biology
 
 education:
@@ -52,9 +52,9 @@ social:
   link: https://github.com/ShawnQin
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: files/short_cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "ssqin@seas.harvard.edu"
