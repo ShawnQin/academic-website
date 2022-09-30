@@ -20,7 +20,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Postdoctoral researcher"
   company = "Harvard University"
-  company_url = ""
+  company_url = "https://www.harvard.edu/"
   location = "Cambridge, MA"
   date_start = "2019-08-15"
   date_end = ""
@@ -28,24 +28,28 @@ date_format = "Jan 2006"
   Research interests:
   
   * Neural information processing
-  * Biologically plausible learning algorithm
+  * Biologically plausible learning algorithms
   * Neural computation in olfactory systems
-  * Quantitative biology
   """
 
 [[experience]]
   title = "Ph.D Student"
   company = "Peking University"
-  company_url = ""
+  company_url = "https://english.pku.edu.cn/"
   location = "Beijing, China"
   date_start = "2012-09-01"
   date_end = "2019-07-01"
-  description = """Explored various projects in the interface between physics and biology. Learned interdisciplinary approached to understand complex biological systems: cell fate transitions, programmed cell death, and information processing in neural systems"""
+  description = """Explored various projects in the interface between physics and biology. Learned interdisciplinary approaches to understand complex biological systems: cell fate transitions, programmed cell death, and information processing in neural systems"""
+  Research interests:
+  * Quantitative Biology
+  * Computational Neuroscience
+  * Physics of complex systems and life
+
   
   [[experience]]
   title = "Visiting student"
   company = "University of California, Berkeley"
-  company_url = ""
+  company_url = "https://www.berkeley.edu/"
   location = "Berkeley, CA"
   date_start = "2016-06-20"
   date_end = "2016-09-20"
