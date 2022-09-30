@@ -18,11 +18,11 @@ organizations:
   url: "https://pehlevan.seas.harvard.edu/people/shanshan-qin"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include computational and theoretical neuroscience, and quantiative biology.
-
+bio: My research interests include theoretical and computational neuroscience, quantiative biology and physics of life.
 interests:
-- Computational Neuroscience
+- Theoretical and Computational Neuroscience
 - Quantiative and Systems Biology
+- Physics of life
 
 education:
   courses:
@@ -54,7 +54,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: files/cv_short.pdf
+  link: files/Curriculum_Vitae.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "ssqin@seas.harvard.edu"
