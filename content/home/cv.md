@@ -13,4 +13,4 @@ title: 'CV'
 subtitle:
 ---
 
-My CV is available in [PDF](cv/cv_short.pdf) form. (Last updated: February, 2022)
+My CV is available in [PDF](cv/Curriculum_Vitae.pdf) form. (Last updated: February, 2022)
