@@ -1,8 +1,8 @@
 ---
 title: 'Drifting neuronal representations: Bug or feature?'
-date: 2022/01/07-01-01
+date: 2022/06/01-01-01
 draft: true
-publishDate: '2022-01-23T21:18:00.188835Z'
+publishDate: '2022-09-30T03:17:51.193920Z'
 authors:
 - Paul Masset
 - Shanshan Qin

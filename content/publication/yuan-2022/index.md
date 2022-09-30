@@ -2,7 +2,7 @@
 title: Cell-to-cell variability in inducible Caspase9-mediated cell death
 date: '2022-01-01'
 draft: true
-publishDate: '2022-01-23T21:18:00.262165Z'
+publishDate: '2022-09-30T03:17:51.355712Z'
 authors:
 - Yuan Yuan
 - Huixia Ren
