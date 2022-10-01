@@ -1,8 +1,8 @@
 ---
-title: Odor representation in *C. elegans*
+title: Odor representation in C. elegans
 summary: Multineuronal imaging of the odor responses in *C. elegans* and decoding analysis revealed a distinct organization compared with insects and mamammlians.
 tags:
-  - drift
+  - olfaction
 date: '2022-10-01T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
