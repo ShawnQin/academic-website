@@ -22,18 +22,16 @@ subtitle = ""
   filter_default = 0
   
   [[content.filter_button]]
-  - name = "All"
-    tag = "*"
-  - name = "representational drift"
-    tag = "drift"
-  - name = "Olfaction"
-    tag = "olfaction"
-  - name = "Contrastive similarity matching"
-    tag = "learning algorithm"
-  - name = "Chemosensation in C. Elegans"
-    tag  = "olfaction"
-  
-  
+  name = "All"
+  tag = "*"
+  name = "representational drift"
+  tag = "drift"
+  name = "Olfaction"
+  tag = "olfaction"
+  name = "Contrastive similarity matching"
+  tag = "learning algorithm"
+  name = "Chemosensation in C. Elegans"
+  tag  = "olfaction"
   # [[content.filter_button]]
   #   name = "Deep Learning"
   #   tag = "Deep Learning"
