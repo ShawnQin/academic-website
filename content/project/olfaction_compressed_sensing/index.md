@@ -34,5 +34,4 @@ The periphery sensory systems are the gateway between the physical world and the
 
 Using an information theory approach, I studied the optimal coding strategies that enable nonlinear ORNs to best represent olfactory information (both the odorants’ identities and their concentrations) in sparse odor mixtures. I showed that the optimal odor-receptor sensitivity matrix is sparse, and the nonzero sensitivities follow a broad distribution (matching the statistics of the odorants), both of which are consistent with existing experiments. For ORNs with a finite basal activity, my study shows that co-existence of both odor-evoked excitation and inhibition increases coding capacity, which provides a plausible explanation for such co-existence observed in the fly olfactory system. Furthermore, I showed that coding the inputs with the optimal sensitivity matrix can enhance the accuracy of the downstream decoding and learning tasks. These general statistical properties of the optimal sensitivity matrix for nonlinear compressed sensing may shed light on understanding the peripheral olfactory sensory system.
 
-{{ $image := .Resources.GetMatch "olfaction_cs_EI.jpeg" }}
-<img src="{{ $image.RelPermalink }}" width="{{ $image.Width }}" height="{{ $image.Height }}">
+![image](olfaction_cs_EI.jpg)
