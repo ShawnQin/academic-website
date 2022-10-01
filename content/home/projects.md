@@ -21,9 +21,18 @@ subtitle = ""
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
   filter_default = 0
   
-  # [[content.filter_button]]
-  #   name = "All"
-  #   tag = "*"
+  [[content.filter_button]]
+  - name = "All"
+    tag = "*"
+  - name = "representational drift"
+    tag = "drift"
+  - name = "Olfaction"
+    tag = "olfaction"
+  - name = "Contrastive similarity matching"
+    tag = "learning algorithm"
+  - name = "Chemosensation in C. Elegans"
+    tag  = "olfaction"
+  
   
   # [[content.filter_button]]
   #   name = "Deep Learning"
@@ -68,7 +77,7 @@ subtitle = ""
   # text_color_light = true  
   
 [advanced]
- # Custom CSS. 
+ # Custom CSS.
  css_style = ""
  
  # CSS class.

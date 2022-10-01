@@ -46,7 +46,7 @@ date_format = "Jan 2006"
   * Physics of complex systems and life
 
   
-  [[experience]]
+[[experience]]
   title = "Visiting student"
   company = "University of California, Berkeley"
   company_url = "https://www.berkeley.edu/"
@@ -55,7 +55,7 @@ date_format = "Jan 2006"
   date_end = "2016-09-20"
   description = """Designed and performed experimental study on the temperature-dependent speed of embryogenesis in *Drosophila Melanogaster*"""
 
-  [[experience]]
+[[experience]]
   title = "Undergraduate research assistant"
   company = "Central China Normal University"
   company_url = ""
