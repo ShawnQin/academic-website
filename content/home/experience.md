@@ -39,12 +39,12 @@ date_format = "Jan 2006"
   location = "Beijing, China"
   date_start = "2012-09-01"
   date_end = "2019-07-01"
-  description = """Explored various projects in the interface between physics and biology. Learned interdisciplinary approaches to understand complex biological systems: cell fate transitions, programmed cell death, and information processing in neural systems"""
+  description = """Explored various projects in the interface between physics and biology. Learned interdisciplinary approaches to understand complex biological systems: cell fate transitions, programmed cell death, and information processing in neural systems
   Research interests:
   * Quantitative Biology
   * Computational Neuroscience
   * Physics of complex systems and life
-
+  """
   
 [[experience]]
   title = "Visiting student"
