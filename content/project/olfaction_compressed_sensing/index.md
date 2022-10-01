@@ -9,6 +9,7 @@ date: '2022-10-01T00:00:00Z'
 external_link: ''
 
 image:
+  placement: 2
   caption:
   focal_point: Smart
 
