@@ -29,13 +29,13 @@ subtitle = ""
   tag = "drift"
   [[content.filter_button]]
   name = "Olfaction"
-  tag = "*olfaction*"
+  tag = "olfaction"
   [[content.filter_button]]
-  name = "Contrastive similarity matching"
-  tag = "*"
+  name = "Biologically plausible leaning"
+  tag = "learning"
   [[content.filter_button]]
   name = "Other"
-  tag = "Demo"
+  tag = "other"
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "1"
@@ -45,7 +45,7 @@ subtitle = ""
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view = 3
+  view = 2
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows = false

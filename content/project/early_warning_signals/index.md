@@ -35,5 +35,4 @@ Critical transition happens in a dynamical system when it is driven passing a ti
 This aims to extend previous theory to a more general and realistic situation and investigate how the extrinsic noise affects the behavior of EWSs. Our results suggest that EN can dramatically diminish EWSs, and this effect increases with the magnitude and correlation time scale of the EN. EN may also result in false alarms of critical transitions, which suggests the necessity of EN evaluation in practical applications of EWSs. Our theoretical framework also lends itself to describe the stationary stochastic behaviour of mesoscopic systems with various sources of noise. As such, this paper should be of general interest to readers in a broad spectrum of research areas.
 
 
-> S. Qin and C. Tang, “Early-warning signals of critical transition: Effect of extrinsic noise”, Physical Review E, 97, 032406 (2018).
-
+> S. Qin and C. Tang, “[Early-warning signals of critical transition: Effect of extrinsic noise](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.97.032406)”, Physical Review E, 97, 032406 (2018).
