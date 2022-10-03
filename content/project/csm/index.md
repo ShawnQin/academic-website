@@ -2,7 +2,7 @@
 title: Biologically plausible supervised learning algorithm
 summary: Biologically plausible networks models with noisy synaptic update explain the widely observed representational drift.
 tags:
-  - biolgically plausible learning
+  - learning
 date: '2022-10-01T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
