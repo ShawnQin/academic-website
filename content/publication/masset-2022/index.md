@@ -1,7 +1,7 @@
 ---
 title: 'Drifting neuronal representations: Bug or feature?'
 date: 2022/06/01-01-01
-draft: true
+draft: false
 publishDate: '2022-09-30T03:17:51.193920Z'
 authors:
 - Paul Masset

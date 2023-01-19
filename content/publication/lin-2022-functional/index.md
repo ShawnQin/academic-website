@@ -2,7 +2,7 @@
 title: Functional imaging and quantification of multi-neuronal olfactory responses
   in C. elegans
 date: '2022-01-01'
-draft: true
+draft: false
 publishDate: '2022-09-30T03:17:51.286500Z'
 authors:
 - Albert Lin
