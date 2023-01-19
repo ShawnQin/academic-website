@@ -27,9 +27,9 @@ interests:
 education:
   courses:
   - course: PhD in Condensed Matter Physics
-    institution: Peking University, Bejing, China
+    institution: Peking University, Beijing, China
     year: 2019
-  - course: BSc in physics
+  - course: BS in physics
     institution: Central China Normal University, Wuhan, China
     year: 2012
 
