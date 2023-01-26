@@ -2,7 +2,7 @@
 title: Network motifs capable of decoding transcription factor dynamics
 date: '2018-01-01'
 draft: false
-publishDate: '2022-09-30T03:17:51.822887Z'
+publishDate: '2023-01-26T21:17:34.252042Z'
 authors:
 - Zongmao Gao
 - Siheng Chen
