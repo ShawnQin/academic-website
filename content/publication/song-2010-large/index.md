@@ -3,7 +3,7 @@ title: 'Large-Scale Porous Hematite Nanorod Arrays: Direct Growth on Titanium Fo
   and Reversible Lithium Storage'
 date: 2010/12/16-12-01
 draft: false
-publishDate: '2023-01-26T21:47:30.589825Z'
+publishDate: '2023-01-26T22:00:04.815329Z'
 authors:
 - Yuqing Song
 - Shanshan Qin

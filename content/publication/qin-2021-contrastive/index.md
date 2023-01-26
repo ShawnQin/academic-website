@@ -2,7 +2,7 @@
 title: Contrastive Similarity Matching for Supervised Learning
 date: '2021-04-01'
 draft: false
-publishDate: '2023-01-26T21:47:31.027682Z'
+publishDate: '2023-01-26T22:00:05.287455Z'
 authors:
 - Shanshan Qin
 - Nayantara Mudur
