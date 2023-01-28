@@ -1,6 +1,6 @@
 ---
 title: Cell-to-cell variability in inducible Caspase9-mediated cell death
-date: 2022/01/10-01-01
+date: '2022-01-10'
 draft: false
 publishDate: '2023-01-26T22:00:04.658777Z'
 authors:
