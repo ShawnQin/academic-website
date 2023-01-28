@@ -1,7 +1,7 @@
 ---
 title: A systematic study of the determinants of protein abundance memory in cell
   lineage
-date: 2018/08/30/-01-01
+date: '2018-08-30'
 draft: false
 publishDate: '2023-01-26T22:00:05.060918Z'
 authors:

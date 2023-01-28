@@ -1,7 +1,7 @@
 ---
 title: Short-Term Plasticity Regulates Both Divisive Normalization and Adaptive Responses
   in Drosophila Olfactory System
-date: '2021-01-01'
+date: '2021-10-22'
 draft: false
 publishDate: '2023-01-26T22:00:04.902484Z'
 authors:

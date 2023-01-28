@@ -1,6 +1,6 @@
 ---
 title: 'Drifting neuronal representations: Bug or feature?'
-date: 2022/06/01-01-01
+date: '2022-06-01'
 draft: false
 publishDate: '2023-01-26T22:00:05.596485Z'
 authors:

@@ -1,7 +1,7 @@
 ---
 title: 'Large-Scale Porous Hematite Nanorod Arrays: Direct Growth on Titanium Foil
   and Reversible Lithium Storage'
-date: 2010/12/16-12-01
+date: '2010-12-16'
 draft: false
 publishDate: '2023-01-26T22:00:04.815329Z'
 authors:

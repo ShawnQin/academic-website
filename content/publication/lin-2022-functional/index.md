@@ -1,7 +1,7 @@
 ---
 title: Functional imaging and quantification of multi-neuronal olfactory responses
   in C. elegans
-date: '2022-01-01'
+date: '2022-05-27'
 draft: false
 publishDate: '2023-01-26T22:00:04.982460Z'
 authors:

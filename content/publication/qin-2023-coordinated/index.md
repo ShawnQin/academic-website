@@ -1,7 +1,7 @@
 ---
 title: Coordinated drift of receptive fields in Hebbian/anti-Hebbian network models
   during noisy representation learning
-date: 2023/01/12-01-01
+date: '2023-01-12'
 draft: false
 publishDate: '2023-01-26T22:00:05.518226Z'
 authors:
