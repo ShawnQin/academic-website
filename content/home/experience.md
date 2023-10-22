@@ -25,11 +25,12 @@ date_format = "Jan 2006"
   date_start = "2019-08-15"
   date_end = ""
   description = """
-  Research interests:
+  Research projects:
   
-  * Neural information processing
-  * Biologically plausible learning algorithms
-  * Neural computation in olfactory systems
+  * Developed biologically plausible learning algorithms.
+  * Unraveled causes and dynamics of drifting neural representations.
+  * Characterized ensemble-level odor coding properties in C. elegans, olfactory information processing
+in fly larvae
   """
 
 [[experience]]
@@ -39,11 +40,10 @@ date_format = "Jan 2006"
   location = "Beijing, China"
   date_start = "2012-09-01"
   date_end = "2019-07-01"
-  description = """Explored various projects in the interface between physics and biology. Learned interdisciplinary approaches to understand complex biological systems: cell fate transitions, programmed cell death, and information processing in neural systems
-  Research interests:
-  * Quantitative Biology
-  * Computational Neuroscience
-  * Physics of complex systems and life
+  description = """I was advised by Dr. Chao Tang at the Center for Quantitative Biology, Peking University. My research was focused on quantitative and systems biology, biophysics and computational neuroscience. 
+  Research projects:
+  * Established a theoretical framework for nonlinear compressed sensing problems and applied it to the peripheral olfactory systems.
+  * Investigated the effect of extrinsic noise in early warning signals in nonlinear complex systems.
   """
   
 [[experience]]
@@ -53,7 +53,16 @@ date_format = "Jan 2006"
   location = "Berkeley, CA"
   date_start = "2016-06-20"
   date_end = "2016-09-20"
-  description = """Designed and performed experimental study on the temperature-dependent speed of embryogenesis in *Drosophila Melanogaster*"""
+  description = """Visiting scholar at the Hernan Garcia Lab at the Department of Molecular and Cell Biology. Designed and performed experimental study on the temperature-dependent speed of embryogenesis in *Drosophila Melanogaster*"""
+
+  [[experience]]
+  title = "Visiting student"
+  company = "University of California, Santa Barbara"
+  company_url = ""
+  location = "Santa Barbara, CA"
+  date_start = "2015-08-03"
+  date_end = "2016-09-05"
+  description = """As as summer school student, I Investigated embryogesis process of insect embryos using quantitative fluorescence microscopy."""
 
 [[experience]]
   title = "Undergraduate research assistant"
