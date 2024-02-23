@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Postdoctoral Fellow in Computational and Theoretical Neuroscience
+role: Associated Research Scientist
 
 # Organizations/Affiliations
 organizations:
@@ -66,4 +66,16 @@ user_groups:
 - Visitors
 ---
 
-I am an associated research scientist at the Center for Computational Neuroscience at [Flatiron Institute of the Simons Foundation](https://www.simonsfoundation.org/flatiron/). I am interested in a broad spectrum of questions in computational and theoretical neuroscience. My research aims to elucidate the principles underlying neural computation and cognition. Specifically, my research addresses questions like: 1) how does the brain efficiently sense and represent external world? 2) How does the brain organize and update memories to support adaptive behavior and life-long learning? 3)How does the brain solve computational problems at the algorithmic level? Answers to these questions will have broad implications, such as shedding light on treating neurodegenerative diseases and psychiatric disorders. Before joining the Flatiron Institute, I held a postdoctoral fellowship at the Harvard [John A. Paulson School of Engineering and Applied Sciences](https://seas.harvard.edu/).I earned my PhD in condensed matter physics from Peking University. During my PhD, I explored various problems at the interface between physics and biology. I was advised by [Chao Tang](https://scholar.google.com/citations?user=OnoMAckAAAAJ&hl=en) and [Yuhai Tu](https://scholar.google.com/citations?user=bpaBVYIAAAAJ&hl=en) at [Center for Quantitative Biology](https://cqb.pku.edu.cn/cqben/). Before that, I studied physics at Central China Normal University at Wuhan. I also enjoy badminton, swimming, hiking, cooking, Chinese calligraphy, watching movies and reading.
+<!-- I am an associated research scientist at the Center for Computational Neuroscience at [Flatiron Institute of the Simons Foundation](https://www.simonsfoundation.org/flatiron/). I am interested in a broad spectrum of questions in computational and theoretical neuroscience. My research aims to elucidate the principles underlying neural computation and cognition. Specifically, my research addresses questions like: 1) how does the brain efficiently sense and represent external world? 2) How does the brain organize and update memories to support adaptive behavior and life-long learning? 3)How does the brain solve computational problems at the algorithmic level? Answers to these questions will have broad implications, such as shedding light on treating neurodegenerative diseases and psychiatric disorders. Before joining the Flatiron Institute, I held a postdoctoral fellowship at the Harvard [John A. Paulson School of Engineering and Applied Sciences](https://seas.harvard.edu/).I earned my PhD in condensed matter physics from Peking University. During my PhD, I explored various problems at the interface between physics and biology. I was advised by [Chao Tang](https://scholar.google.com/citations?user=OnoMAckAAAAJ&hl=en) and [Yuhai Tu](https://scholar.google.com/citations?user=bpaBVYIAAAAJ&hl=en) at [Center for Quantitative Biology](https://cqb.pku.edu.cn/cqben/). Before that, I studied physics at Central China Normal University at Wuhan. I also enjoy badminton, swimming, hiking, cooking, Chinese calligraphy, watching movies and reading. -->
+
+I am an Associate Research Scientist at the Center for Computational Neuroscience at Flatiron Institute, Simons Foundation. Driven by a broad interest in theoretical and computational neuroscience, my research seeks to understand the fundamental principles driving neural computation and cognition.
+
+**Current Research Focus**:
+- Sensory processing and representation: How does the brain efficiently perceive and encode the external world?
+- Memory organization and update: How does the brain store and dynamically update memories to support adaptive behavior and lifelong learning?
+- Algorithmic foundations of computation: What are the underlying algorithms the brain uses to solve complex problems?
+
+**Background**
+Prior to joining Flatiron, I held a postdoctoral fellowship at [Harvard's John A. Paulson School of Engineering and Applied Sciences](https://seas.harvard.edu/) where I worked with [Cengiz Pehlevan](https://pehlevan.seas.harvard.edu/people/cengiz-pehlevan). I earned my PhD in condensed matter physics from Peking University where I was advised by [Chao Tang](https://scholar.google.com/citations?user=OnoMAckAAAAJ&hl=en) and [Yuhai Tu](https://scholar.google.com/citations?user=bpaBVYIAAAAJ&hl=en) at the [Center for Quantitative Biology](https://cqb.pku.edu.cn/cqben/). Before that, I pursued my undergraduate studies in physics at Central China Normal University in Wuhan.
+
+I will join the Institute of Natural Sciences at Shanghai Jiao Tong University as a tenure-track Associate Professor starting from January 2025.
