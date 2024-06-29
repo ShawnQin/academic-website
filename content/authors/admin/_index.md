@@ -14,7 +14,7 @@ role: Associated Research Scientist
 
 # Organizations/Affiliations
 organizations:
-- name: Flatiron Institution
+- name: Flatiron Institute
   url: "https://www.simonsfoundation.org/flatiron/"
 
 # Short bio (displayed in user profile at end of posts)
@@ -26,7 +26,7 @@ interests:
 
 education:
   courses:
-  - course: PhD in Condensed Matter Physics
+  - course: Ph.D in Condensed Matter Physics
     institution: Peking University, Beijing, China
     year: 2019
   - course: BS in physics
@@ -66,7 +66,7 @@ user_groups:
 - Visitors
 ---
 
-I am an Associated Research Scientist at the Center for Computational Neuroscience at Flatiron Institute, Simons Foundation. Driven by a broad interest in theoretical and computational neuroscience, my research seeks to understand the fundamental principles driving neural computation and cognition.
+I am an Associate Research Scientist at the Center for Computational Neuroscience, [Flatiron Institute](https://www.simonsfoundation.org/flatiron/center-for-computational-neuroscience/). Driven by a broad interest in theoretical and computational neuroscience, my research seeks to understand the fundamental principles driving neural computation and cognition.
 
 **Current Research Focus**:
 - Sensory processing and representation: How does the brain efficiently perceive and encode the external world?
@@ -75,6 +75,6 @@ I am an Associated Research Scientist at the Center for Computational Neuroscien
 
 **Background**:
 
-Prior to joining Flatiron, I held a postdoctoral fellowship at [Harvard's John A. Paulson School of Engineering and Applied Sciences](https://seas.harvard.edu/) where I worked with [Cengiz Pehlevan](https://pehlevan.seas.harvard.edu/people/cengiz-pehlevan). I earned my PhD in condensed matter physics from Peking University where I was advised by [Chao Tang](https://scholar.google.com/citations?user=OnoMAckAAAAJ&hl=en) and [Yuhai Tu](https://scholar.google.com/citations?user=bpaBVYIAAAAJ&hl=en) at the [Center for Quantitative Biology](https://cqb.pku.edu.cn/cqben/). Before that, I pursued my undergraduate studies in physics at Central China Normal University in Wuhan.
+Prior to joining Flatiron Institute, I held a postdoctoral fellowship at [Harvard's John A. Paulson School of Engineering and Applied Sciences](https://seas.harvard.edu/) where I worked with [Cengiz Pehlevan](https://pehlevan.seas.harvard.edu/people/cengiz-pehlevan). I earned my PhD in condensed matter physics from Peking University where I was advised by [Chao Tang](https://scholar.google.com/citations?user=OnoMAckAAAAJ&hl=en) and [Yuhai Tu](https://scholar.google.com/citations?user=bpaBVYIAAAAJ&hl=en) at the [Center for Quantitative Biology](https://cqb.pku.edu.cn/cqben/). Before that, I pursued my undergraduate studies in physics at Central China Normal University in Wuhan.
 
-I will join the [Institute of Natural Sciences](https://ins.sjtu.edu.cn/) at Shanghai Jiao Tong University as a tenure-track Associate Professor starting from January 2025.
+I will join the [Institute of Natural Sciences](https://ins.sjtu.edu.cn/) at Shanghai Jiao Tong University as a tenure-track Associate Professor starting from January 2025. 
