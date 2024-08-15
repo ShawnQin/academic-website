@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Associated Research Scientist
+role: Associate Research Scientist
 
 # Organizations/Affiliations
 organizations:
