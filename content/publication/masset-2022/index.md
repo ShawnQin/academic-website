@@ -4,7 +4,7 @@ authors:
 - Paul Masset
 - Shanshan Qin
 - Jacob A. Zavatone-Veth
-date: '2022/06/01'
+date: '2022-06-01'
 publishDate: '2024-12-10T19:50:06.023070Z'
 publication_types:
 - article-journal
