@@ -1,16 +1,17 @@
 ---
 title: Optimal compressed sensing strategies for an array of nonlinear olfactory receptor
   neurons with and without spontaneous activity
-date: '2019-09-23'
-draft: false
-publishDate: '2023-01-26T22:00:05.438759Z'
 authors:
 - Shanshan Qin
 - Qianyi Li
 - Chao Tang
 - Yuhai Tu
+date: '2019-01-01'
+publishDate: '2024-12-10T14:18:22.601486Z'
 publication_types:
-- '2'
+- article-journal
+publication: '*Proceedings of the National Academy of Sciences*'
+doi: 10.1073/pnas.1906571116
 abstract: There are numerous different odorant molecules in nature but only a relatively
   small number of olfactory receptor neurons (ORNs) in brains. This ``compressed sensing''
   challenge is compounded by the constraint that ORNs are nonlinear sensors with a
@@ -32,9 +33,7 @@ abstract: There are numerous different odorant molecules in nature but only a re
   experiments and predictions are made to further test our theory. The optimal coding
   model provides a unifying framework to understand the peripheral olfactory systems
   across different organisms.
-featured: false
-publication: '*Proceedings of the National Academy of Sciences*'
-url_pdf: https://www.pnas.org/doi/abs/10.1073/pnas.1906571116
-doi: 10.1073/pnas.1906571116
+links:
+- name: URL
+  url: https://www.pnas.org/doi/abs/10.1073/pnas.1906571116
 ---
-

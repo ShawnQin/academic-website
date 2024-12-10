@@ -1,17 +1,18 @@
 ---
 title: Short-Term Plasticity Regulates Both Divisive Normalization and Adaptive Responses
   in Drosophila Olfactory System
-date: '2021-10-22'
-draft: false
-publishDate: '2023-01-26T22:00:04.902484Z'
 authors:
 - Yuxuan Liu
 - Qianyi Li
 - Chao Tang
 - Shanshan Qin
 - Yuhai Tu
+date: '2021-01-01'
+publishDate: '2024-12-10T14:18:22.580647Z'
 publication_types:
-- '2'
+- article-journal
+publication: '*Frontiers in Computational Neuroscience*'
+doi: 10.3389/fncom.2021.730431
 abstract: In Drosophila, olfactory information received by olfactory receptor neurons
   (ORNs) is first processed by an incoherent feed forward neural circuit in the antennal
   lobe (AL) that consists of ORNs (input), inhibitory local neurons (LNs), and projection
@@ -34,9 +35,7 @@ abstract: In Drosophila, olfactory information received by olfactory receptor ne
   time-dependent signals and to infer microscopic properties of the circuit (such
   as the strengths of STF and STD) from the measured input-output relation. Our circuit
   model may be useful for understanding the role of STP in other sensory systems.
-featured: false
-publication: '*Frontiers in Computational Neuroscience*'
-url_pdf: https://www.frontiersin.org/articles/10.3389/fncom.2021.730431
-doi: 10.3389/fncom.2021.730431
+links:
+- name: URL
+  url: https://www.frontiersin.org/articles/10.3389/fncom.2021.730431
 ---
-

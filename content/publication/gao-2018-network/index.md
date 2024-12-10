@@ -1,15 +1,16 @@
 ---
 title: Network Motifs Capable of Decoding Transcription Factor Dynamics
-date: '2018-02-26'
-draft: false
-publishDate: '2023-01-26T22:00:05.133166Z'
 authors:
 - Zongmao Gao
 - Siheng Chen
 - Shanshan Qin
 - Chao Tang
+date: 2018/02/26-01-01
+publishDate: '2024-12-10T14:18:22.590115Z'
 publication_types:
-- '2'
+- article-journal
+publication: '*Scientific Reports*'
+doi: 10.1038/s41598-018-21945-2
 abstract: 'Transcription factors (TFs) can encode the information of upstream signal
   in terms of its temporal activation dynamics. However, it remains unclear how different
   types of TF dynamics are decoded by downstream signalling networks. In this work,
@@ -25,9 +26,7 @@ abstract: 'Transcription factors (TFs) can encode the information of upstream si
   both AM and FM input signals by using different values of parameters for AM and
   FM cases. Our results provide a novel network mechanism for decoding different TF
   dynamics.'
-featured: false
-publication: '*Scientific Reports*'
-url_pdf: https://doi.org/10.1038/s41598-018-21945-2
-doi: 10.1038/s41598-018-21945-2
+links:
+- name: URL
+  url: https://doi.org/10.1038/s41598-018-21945-2
 ---
-

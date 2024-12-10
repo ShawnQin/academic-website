@@ -1,9 +1,6 @@
 ---
 title: Internal state configures olfactory behavior and early sensory processing in
   Drosophila larvae
-date: '2021-01-01'
-draft: false
-publishDate: '2023-01-26T22:00:04.738019Z'
 authors:
 - Katrin Vogt
 - David M. Zimmerman
@@ -15,8 +12,12 @@ authors:
 - Cengiz Pehlevan
 - Albert Cardona
 - Aravinthan D. T. Samuel
+date: '2021-01-01'
+publishDate: '2024-12-10T14:18:22.574319Z'
 publication_types:
-- '2'
+- article-journal
+publication: '*Science Advances*'
+doi: 10.1126/sciadv.abd6900
 abstract: The first olfactory processing center in the larval Drosophila brain uses
   information about feeding state to shape behavior. Animals exhibit different behavioral
   responses to the same sensory cue depending on their internal state at a given moment.
@@ -32,9 +33,7 @@ abstract: The first olfactory processing center in the larval Drosophila brain u
   by the lone serotonergic neuron in the antennal lobe, CSD. Our findings demonstrate
   how flexible behaviors can arise from state-dependent circuit dynamics in an early
   sensory processing center.
-featured: false
-publication: '*Science Advances*'
-url_pdf: https://doi.org/10.1126/sciadv.abd6900
-doi: 10.1126/sciadv.abd6900
+links:
+- name: URL
+  url: https://doi.org/10.1126/sciadv.abd6900
 ---
-

@@ -1,9 +1,6 @@
 ---
 title: Functional imaging and quantification of multi-neuronal olfactory responses
   in C. elegans
-date: '2022-05-27'
-draft: false
-publishDate: '2023-01-26T22:00:04.982460Z'
 authors:
 - Albert Lin
 - Shanshan Qin
@@ -18,8 +15,12 @@ authors:
 - Cengiz Pehlevan
 - Mei Zhen
 - Aravinthan D.T. Samuel
+date: '2022-01-01'
+publishDate: '2024-12-10T14:18:22.583906Z'
 publication_types:
-- '2'
+- article-journal
+publication: '*bioRxiv*'
+doi: 10.1101/2022.05.27.493772
 abstract: Many animals perceive odorant molecules by collecting information from ensembles
   of olfactory neurons. Each neuron employs receptors that are tuned to recognize
   certain odorant molecules by chemical binding affinity. Olfactory systems are able,
@@ -37,9 +38,7 @@ abstract: Many animals perceive odorant molecules by collecting information from
   C. elegans chemosensory neurons contains sufficient information to robustly encode
   the intensity and identity of diverse chemical stimuli.Competing Interest StatementThe
   authors have declared no competing interest.
-featured: false
-publication: '*bioRxiv*'
-url_pdf: https://www.biorxiv.org/content/early/2022/07/28/2022.05.27.493772
-doi: 10.1101/2022.05.27.493772
+links:
+- name: URL
+  url: https://www.biorxiv.org/content/early/2022/07/28/2022.05.27.493772
 ---
-

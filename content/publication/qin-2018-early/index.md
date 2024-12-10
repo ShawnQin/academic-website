@@ -1,13 +1,14 @@
 ---
 title: 'Early-warning signals of critical transition: Effect of extrinsic noise'
-date: '2018-03-01'
-draft: false
-publishDate: '2023-01-26T22:00:05.362800Z'
 authors:
 - Shanshan Qin
 - Chao Tang
+date: '2018-03-01'
+publishDate: '2024-12-10T14:18:22.598727Z'
 publication_types:
-- '2'
+- article-journal
+publication: '*Phys. Rev. E*'
+doi: 10.1103/PhysRevE.97.032406
 abstract: Complex dynamical systems often have tipping points and exhibit catastrophic
   regime shift. Despite the notorious difficulty of predicting such transitions, accumulating
   studies have suggested the existence of generic early-warning signals (EWSs) preceding
@@ -20,9 +21,7 @@ abstract: Complex dynamical systems often have tipping points and exhibit catast
   This effect is stronger with increasing amplitude and correlation time scale of
   the EN. In the presence of EN, the EWS can fail to predict or even give a false
   alarm of critical transitions.
-featured: false
-publication: '*Phys. Rev. E*'
-url_pdf: https://link.aps.org/doi/10.1103/PhysRevE.97.032406
-doi: 10.1103/PhysRevE.97.032406
+links:
+- name: URL
+  url: https://link.aps.org/doi/10.1103/PhysRevE.97.032406
 ---
-

@@ -1,9 +1,6 @@
 ---
 title: Odor-evoked inhibition of olfactory sensory neurons drives olfactory perception
   in Drosophila
-date: '2017-11-07'
-draft: false
-publishDate: '2023-01-26T22:00:05.209269Z'
 authors:
 - Li-Hui Cao
 - Dong Yang
@@ -15,8 +12,12 @@ authors:
 - Chao Tang
 - Yuhai Tu
 - Dong-Gen Luo
+date: 2017/11/07-01-01
+publishDate: '2024-12-10T14:18:22.593072Z'
 publication_types:
-- '2'
+- article-journal
+publication: '*Nature Communications*'
+doi: 10.1038/s41467-017-01185-0
 abstract: Inhibitory response occurs throughout the nervous system, including the
   peripheral olfactory system. While odor-evoked excitation in peripheral olfactory
   cells is known to encode odor information, the molecular mechanism and functional
@@ -31,9 +32,7 @@ abstract: Inhibitory response occurs throughout the nervous system, including th
   Furthermore, we demonstrated that a bidirectional code with both odor-evoked inhibition
   and excitation in single olfactory sensory neurons increases the odor-coding capacity,
   providing a means of efficient sensory encoding.
-featured: false
-publication: '*Nature Communications*'
-url_pdf: https://doi.org/10.1038/s41467-017-01185-0
-doi: 10.1038/s41467-017-01185-0
+links:
+- name: URL
+  url: https://doi.org/10.1038/s41467-017-01185-0
 ---
-

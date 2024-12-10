@@ -1,8 +1,5 @@
 ---
 title: Cell-to-cell variability in inducible Caspase9-mediated cell death
-date: '2022-01-10'
-draft: false
-publishDate: '2023-01-26T22:00:04.658777Z'
 authors:
 - Yuan Yuan
 - Huixia Ren
@@ -10,8 +7,12 @@ authors:
 - Shanshan Qin
 - Xiaojing Yang
 - Chao Tang
+date: 2022/01/10-01-01
+publishDate: '2024-12-10T14:18:22.570696Z'
 publication_types:
-- '2'
+- article-journal
+publication: '*Cell Death & Disease*'
+doi: 10.1038/s41419-021-04468-z
 abstract: iCasp9 suicide gene has been widely used as a promising killing strategy
   in various cell therapies. However, different cells show significant heterogeneity
   in response to apoptosis inducer, posing challenges in clinical applications of
@@ -26,9 +27,7 @@ abstract: iCasp9 suicide gene has been widely used as a promising killing strate
   of the multiple-round treatments. Our results unveil the source of cell fate heterogeneity
   and drug resistance in iCasp9-mediated cell death, which may enlighten better therapeutic
   strategies for optimized killing.
-featured: false
-publication: '*Cell Death & Disease*'
-url_pdf: https://doi.org/10.1038/s41419-021-04468-z
-doi: 10.1038/s41419-021-04468-z
+links:
+- name: URL
+  url: https://doi.org/10.1038/s41419-021-04468-z
 ---
-

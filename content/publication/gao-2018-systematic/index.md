@@ -1,17 +1,18 @@
 ---
 title: A systematic study of the determinants of protein abundance memory in cell
   lineage
-date: '2018-08-30'
-draft: false
-publishDate: '2023-01-26T22:00:05.060918Z'
 authors:
 - Zongmao Gao
 - Haoyuan Sun
 - Shanshan Qin
 - Xiaojing Yang
 - Chao Tang
+date: 2018/08/30/-01-01
+publishDate: '2024-12-10T14:18:22.587289Z'
 publication_types:
-- '2'
+- article-journal
+publication: '*Science Bulletin*'
+doi: https://doi.org/10.1016/j.scib.2018.07.010
 abstract: Proteins are essential players of life activities. Intracellular protein
   levels directly affect cellular functions and cell fate. Upon cell division, the
   proteins in the mother cell are inherited by the daughters. However, what factors
@@ -22,12 +23,10 @@ abstract: Proteins are essential players of life activities. Intracellular prote
   simulations of protein production and experimental results. Our work provides a
   framework for quantitative studies of protein inheritance and for the potential
   application of protein memory manipulation.
-featured: false
-publication: '*Science Bulletin*'
 tags:
-- '"Protein abundance memory; Intrinsic noise; Extrinsic noise; Epigenetic inheritance;
-  Cell lineage"'
-url_pdf: https://www.sciencedirect.com/science/article/pii/S2095927318303359
-doi: https://doi.org/10.1016/j.scib.2018.07.010
+- Protein abundance memory; Intrinsic noise; Extrinsic noise; Epigenetic inheritance;
+  Cell lineage
+links:
+- name: URL
+  url: https://www.sciencedirect.com/science/article/pii/S2095927318303359
 ---
-

@@ -1,17 +1,18 @@
 ---
 title: 'Large-Scale Porous Hematite Nanorod Arrays: Direct Growth on Titanium Foil
   and Reversible Lithium Storage'
-date: '2010-12-16'
-draft: false
-publishDate: '2023-01-26T22:00:04.815329Z'
 authors:
 - Yuqing Song
 - Shanshan Qin
 - Yangwei Zhang
 - Wanqin Gao
 - Jinping Liu
+date: 2010/12/16-12-01
+publishDate: '2024-12-10T14:18:22.577460Z'
 publication_types:
-- '2'
+- article-journal
+publication: '*The Journal of Physical Chemistry C*'
+doi: 10.1021/jp1091009
 abstract: Porous single-crystalline hematite (α-Fe2O3) nanorod array has been synthesized
   on large-area Ti foil via a facile hydrothermal method followed by a simple annealing
   treatment in Ar gas at 450 $,^∘$C. The nanorods attained from 6 h hydrothermal reaction
@@ -26,9 +27,7 @@ abstract: Porous single-crystalline hematite (α-Fe2O3) nanorod array has been s
   a successful example of fabricating iron oxide 1D nanostructure arrays directly
   on nonreactive current collector. Once optimized, the array electrode may hold great
   promise in thin-film LIBs and other microelectronic systems.
-featured: false
-publication: '*The Journal of Physical Chemistry C*'
-url_pdf: https://doi.org/10.1021/jp1091009
-doi: 10.1021/jp1091009
+links:
+- name: URL
+  url: https://doi.org/10.1021/jp1091009
 ---
-

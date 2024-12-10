@@ -1,9 +1,6 @@
 ---
 title: Coordinated drift of receptive fields in Hebbian/anti-Hebbian network models
   during noisy representation learning
-date: '2023-01-12'
-draft: false
-publishDate: '2023-01-26T22:00:05.518226Z'
 authors:
 - Shanshan Qin
 - Shiva Farashahi
@@ -11,8 +8,12 @@ authors:
 - Anirvan M. Sengupta
 - Dmitri B. Chklovskii
 - Cengiz Pehlevan
+date: 2023/01/12-01-01
+publishDate: '2024-12-10T14:18:22.604534Z'
 publication_types:
-- '2'
+- article-journal
+publication: '*Nature Neuroscience*'
+doi: 10.1038/s41593-022-01225-z
 abstract: Recent experiments have revealed that neural population codes in many brain
   areas continuously change even when animals have fully learned and stably perform
   their tasks. This representational `drift'naturally leads to questions about its
@@ -28,9 +29,7 @@ abstract: Recent experiments have revealed that neural population codes in many 
   over time. Our model recapitulates experimental observations in the hippocampus
   and posterior parietal cortex and makes testable predictions that can be probed
   in future experiments.
-featured: false
-publication: '*Nature Neuroscience*'
-url_pdf: https://doi.org/10.1038/s41593-022-01225-z
-doi: 10.1038/s41593-022-01225-z
+links:
+- name: URL
+  url: https://doi.org/10.1038/s41593-022-01225-z
 ---
-
