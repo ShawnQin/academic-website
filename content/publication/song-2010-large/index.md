@@ -8,7 +8,7 @@ authors:
 - Wanqin Gao
 - Jinping Liu
 date: 2010/12/16-12-01
-publishDate: '2024-12-10T14:18:22.577460Z'
+publishDate: '2024-12-10T19:50:05.992717Z'
 publication_types:
 - article-journal
 publication: '*The Journal of Physical Chemistry C*'

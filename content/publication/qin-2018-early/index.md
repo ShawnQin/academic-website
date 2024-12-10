@@ -4,7 +4,7 @@ authors:
 - Shanshan Qin
 - Chao Tang
 date: '2018-03-01'
-publishDate: '2024-12-10T14:18:22.598727Z'
+publishDate: '2024-12-10T19:50:06.014153Z'
 publication_types:
 - article-journal
 publication: '*Phys. Rev. E*'
