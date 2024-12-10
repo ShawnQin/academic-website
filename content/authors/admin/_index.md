@@ -77,4 +77,7 @@ I am an Associate Research Scientist at the Center for Computational Neuroscienc
 
 Prior to joining Flatiron Institute, I held a postdoctoral fellowship at [Harvard's John A. Paulson School of Engineering and Applied Sciences](https://seas.harvard.edu/) where I worked with [Cengiz Pehlevan](https://pehlevan.seas.harvard.edu/people/cengiz-pehlevan). I earned my PhD in condensed matter physics from Peking University where I was advised by [Chao Tang](https://scholar.google.com/citations?user=OnoMAckAAAAJ&hl=en) and [Yuhai Tu](https://scholar.google.com/citations?user=bpaBVYIAAAAJ&hl=en) at the [Center for Quantitative Biology](https://cqb.pku.edu.cn/cqben/). Before that, I pursued my undergraduate studies in physics at Central China Normal University in Wuhan.
 
-I will join the [Institute of Natural Sciences](https://ins.sjtu.edu.cn/) at Shanghai Jiao Tong University as a tenure-track Associate Professor starting from January 2025. 
+I will join the [Institute of Natural Sciences](https://ins.sjtu.edu.cn/) at Shanghai Jiao Tong University as a tenure-track Associate Professor starting from January 2025.
+
+
+If you or someone you know is interested in working with me, please drop me an email: qins.pku(at)gmail.com.
