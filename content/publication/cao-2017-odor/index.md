@@ -12,7 +12,7 @@ authors:
 - Chao Tang
 - Yuhai Tu
 - Dong-Gen Luo
-date: '2017-11-07'
+date: '2017/11/07'
 publishDate: '2024-12-10T19:50:06.008300Z'
 publication_types:
 - article-journal

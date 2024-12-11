@@ -7,7 +7,7 @@ authors:
 - Shanshan Qin
 - Xiaojing Yang
 - Chao Tang
-date: '2018-08-30'
+date: '2018/08/30'
 publishDate: '2024-12-10T19:50:06.002451Z'
 publication_types:
 - article-journal
