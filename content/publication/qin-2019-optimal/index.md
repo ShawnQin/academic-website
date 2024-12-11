@@ -7,7 +7,7 @@ authors:
 - Chao Tang
 - Yuhai Tu
 date: '2019-01-01'
-publishDate: '2024-12-10T19:50:06.016997Z'
+publishDate: '2024-12-10T14:18:22.601486Z'
 publication_types:
 - article-journal
 publication: '*Proceedings of the National Academy of Sciences*'

@@ -13,7 +13,7 @@ authors:
 - Yuhai Tu
 - Dong-Gen Luo
 date: 2017/11/07-01-01
-publishDate: '2024-12-10T19:50:06.008300Z'
+publishDate: '2024-12-10T14:18:22.593072Z'
 publication_types:
 - article-journal
 publication: '*Nature Communications*'
