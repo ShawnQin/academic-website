@@ -8,7 +8,7 @@ authors:
 - Anirvan M. Sengupta
 - Dmitri B. Chklovskii
 - Cengiz Pehlevan
-date: 2023/01/12-01-01
+date: '2023-01-12'
 publishDate: '2024-12-10T14:18:22.604534Z'
 publication_types:
 - article-journal
